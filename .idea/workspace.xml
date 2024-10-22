@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="668ef013-c956-4db9-af52-7bd85e29db9b" name="Changes" comment="init comit">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_topics/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/new_topics/src/main/java/org/example/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="668ef013-c956-4db9-af52-7bd85e29db9b" name="Changes" comment="init comit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,6 +64,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -111,7 +107,7 @@
       <workItem from="1729614637769" duration="628000" />
       <workItem from="1729615272706" duration="97000" />
       <workItem from="1729615374265" duration="66000" />
-      <workItem from="1729615457840" duration="867000" />
+      <workItem from="1729615457840" duration="1556000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -137,7 +133,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729615535059</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="init comit">
+      <option name="closed" value="true" />
+      <created>1729616598474</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729616598474</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
