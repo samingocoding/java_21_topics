@@ -4,11 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="668ef013-c956-4db9-af52-7bd85e29db9b" name="Changes" comment="init comit" />
+    <list default="true" id="668ef013-c956-4db9-af52-7bd85e29db9b" name="Changes" comment="init comit">
+      <change afterPath="$PROJECT_DIR$/new_topics/new_topics/src/main/java/org/example/unnamed_classes/SecondUnamed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_topics/new_topics/src/main/java/org/example/unnamed_classes/Unnamed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_topics/new_topics/src/main/java/org/example/virutual_threads/ExecutorToVirtual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_topics/new_topics/src/main/java/org/example/virutual_threads/VirtualIntro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <excluded-from-favorite>
@@ -26,7 +40,7 @@
     </excluded-from-favorite>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="setup-java-21" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/new_topics" />
@@ -48,6 +62,9 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2nnhEeYTAVL5Vm5uRPYB57G40Mq" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -55,6 +72,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Application.VirtualIntro.executor": "Run",
+    "Maven.new_topics [clean,install].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "<unknown>",
     "kotlin-language-version-configured": "true",
@@ -64,11 +83,14 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.VirtualIntro">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
       <module name="new_topics" />
@@ -82,8 +104,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VirtualIntro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.virutual_threads.VirtualIntro" />
+      <module name="new_topics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.virutual_threads.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.VirtualIntro" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -150,6 +186,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="init comit" />
-    <option name="LAST_COMMIT_MESSAGE" value="init comit" />
+    <MESSAGE value="unnamed class init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="unnamed class init commit" />
   </component>
 </project>
