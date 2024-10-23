@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="668ef013-c956-4db9-af52-7bd85e29db9b" name="Changes" comment="Virtual threads init commit">
+    <list default="true" id="668ef013-c956-4db9-af52-7bd85e29db9b" name="Changes" comment="compraed old executor thread and new virtual threads">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -154,7 +155,7 @@
       <workItem from="1729615272706" duration="97000" />
       <workItem from="1729615374265" duration="66000" />
       <workItem from="1729615457840" duration="1556000" />
-      <workItem from="1729707390080" duration="3009000" />
+      <workItem from="1729707390080" duration="3184000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -188,7 +189,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729616598474</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="compraed old executor thread and new virtual threads">
+      <option name="closed" value="true" />
+      <created>1729711343930</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729711343930</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,6 +208,7 @@
     <MESSAGE value="init comit" />
     <MESSAGE value="unnamed class init commit" />
     <MESSAGE value="Virtual threads init commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Virtual threads init commit" />
+    <MESSAGE value="compraed old executor thread and new virtual threads" />
+    <option name="LAST_COMMIT_MESSAGE" value="compraed old executor thread and new virtual threads" />
   </component>
 </project>
