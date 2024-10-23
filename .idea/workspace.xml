@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="668ef013-c956-4db9-af52-7bd85e29db9b" name="Changes" comment="compraed old executor thread and new virtual threads">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="668ef013-c956-4db9-af52-7bd85e29db9b" name="Changes" comment="pdated git ignore">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +86,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ExecutorToVirtual">
+  <component name="RunManager" selected="Application.VirtualIntro">
     <configuration name="ExecutorToVirtual" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.virutual_threads.ExecutorToVirtual" />
       <module name="new_topics" />
@@ -129,8 +128,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ExecutorToVirtual" />
         <item itemvalue="Application.VirtualIntro" />
+        <item itemvalue="Application.ExecutorToVirtual" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -155,7 +154,7 @@
       <workItem from="1729615272706" duration="97000" />
       <workItem from="1729615374265" duration="66000" />
       <workItem from="1729615457840" duration="1556000" />
-      <workItem from="1729707390080" duration="3184000" />
+      <workItem from="1729707390080" duration="4941000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -197,7 +196,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729711343930</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="pdated git ignore">
+      <option name="closed" value="true" />
+      <created>1729711488715</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1729711488715</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,6 +216,7 @@
     <MESSAGE value="unnamed class init commit" />
     <MESSAGE value="Virtual threads init commit" />
     <MESSAGE value="compraed old executor thread and new virtual threads" />
-    <option name="LAST_COMMIT_MESSAGE" value="compraed old executor thread and new virtual threads" />
+    <MESSAGE value="pdated git ignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="pdated git ignore" />
   </component>
 </project>
